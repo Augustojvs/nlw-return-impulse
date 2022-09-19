@@ -1,4 +1,4 @@
-# nlw-return-impulse-web
+# nlw-return-impulse
 Este projeto de estudo e de um Widget para captura de bugs e sugestões de uma pagina web e envia para o email desiguinado no backend da aplicação além salvar as informações no banco. O usuario vai acessa-lo pelo icone que fica no canto inferior direito da pagina:
 
 ![image](https://user-images.githubusercontent.com/40810793/188500472-1c1ab5b8-7cba-404b-86ae-fff5809667d1.png)
